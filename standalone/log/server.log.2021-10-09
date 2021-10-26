@@ -1,0 +1,210 @@
+2021-10-09 15:51:20,448 INFO  [org.jboss.modules] (main) JBoss Modules version 1.10.2.Final
+2021-10-09 15:51:23,844 INFO  [org.jboss.msc] (main) JBoss MSC version 1.4.12.Final
+2021-10-09 15:51:23,855 INFO  [org.jboss.threads] (main) JBoss Threads version 2.4.0.Final
+2021-10-09 15:51:24,371 INFO  [org.jboss.as] (MSC service thread 1-2) WFLYSRV0049: Keycloak 12.0.0 (WildFly Core 13.0.3.Final) starting
+2021-10-09 15:51:24,377 DEBUG [org.jboss.as.config] (MSC service thread 1-2) Configured system properties:
+	awt.toolkit = sun.awt.windows.WToolkit
+	file.encoding = Cp1252
+	file.separator = \
+	java.awt.graphicsenv = sun.awt.Win32GraphicsEnvironment
+	java.awt.printerjob = sun.awt.windows.WPrinterJob
+	java.class.path = D:\SourceCode\CodeJHipster\keycloak-12.0.0\jboss-modules.jar
+	java.class.version = 55.0
+	java.home = C:\Program Files\Java\jdk-11.0.11
+	java.io.tmpdir = C:\Users\doxua\AppData\Local\Temp\
+	java.library.path = C:\Program Files\Java\jdk-11.0.11\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-11.0.11\bin;C:\apache-maven-3.8.2\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\doxua\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.2\bin;;C:\Users\doxua\AppData\Roaming\npm;C:\Users\doxua\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin;;.
+	java.net.preferIPv4Stack = true
+	java.runtime.name = Java(TM) SE Runtime Environment
+	java.runtime.version = 11.0.11+9-LTS-194
+	java.specification.name = Java Platform API Specification
+	java.specification.vendor = Oracle Corporation
+	java.specification.version = 11
+	java.util.logging.manager = org.jboss.logmanager.LogManager
+	java.vendor = Oracle Corporation
+	java.vendor.url = https://openjdk.java.net/
+	java.vendor.url.bug = https://bugreport.java.com/bugreport/
+	java.vendor.version = 18.9
+	java.version = 11.0.11
+	java.version.date = 2021-04-20
+	java.vm.compressedOopsMode = 32-bit
+	java.vm.info = mixed mode
+	java.vm.name = Java HotSpot(TM) 64-Bit Server VM
+	java.vm.specification.name = Java Virtual Machine Specification
+	java.vm.specification.vendor = Oracle Corporation
+	java.vm.specification.version = 11
+	java.vm.vendor = Oracle Corporation
+	java.vm.version = 11.0.11+9-LTS-194
+	javax.management.builder.initial = org.jboss.as.jmx.PluggableMBeanServerBuilder
+	jboss.home.dir = D:\SourceCode\CodeJHipster\keycloak-12.0.0
+	jboss.host.name = desktop-qpu8tp9
+	jboss.modules.dir = D:\SourceCode\CodeJHipster\keycloak-12.0.0\modules
+	jboss.modules.system.pkgs = org.jboss.byteman
+	jboss.node.name = desktop-qpu8tp9
+	jboss.qualified.host.name = desktop-qpu8tp9
+	jboss.server.base.dir = D:\SourceCode\CodeJHipster\keycloak-12.0.0\standalone
+	jboss.server.config.dir = D:\SourceCode\CodeJHipster\keycloak-12.0.0\standalone\configuration
+	jboss.server.data.dir = D:\SourceCode\CodeJHipster\keycloak-12.0.0\standalone\data
+	jboss.server.deploy.dir = D:\SourceCode\CodeJHipster\keycloak-12.0.0\standalone\data\content
+	jboss.server.log.dir = D:\SourceCode\CodeJHipster\keycloak-12.0.0\standalone\log
+	jboss.server.name = desktop-qpu8tp9
+	jboss.server.persist.config = true
+	jboss.server.temp.dir = D:\SourceCode\CodeJHipster\keycloak-12.0.0\standalone\tmp
+	jdk.debug = release
+	line.separator = 
+
+	logging.configuration = file:D:\SourceCode\CodeJHipster\keycloak-12.0.0\standalone\configuration/logging.properties
+	module.path = D:\SourceCode\CodeJHipster\keycloak-12.0.0\modules
+	org.jboss.boot.log.file = D:\SourceCode\CodeJHipster\keycloak-12.0.0\standalone\log\server.log
+	org.jboss.resolver.warning = true
+	os.arch = amd64
+	os.name = Windows 10
+	os.version = 10.0
+	path.separator = ;
+	program.name = standalone.bat
+	sun.arch.data.model = 64
+	sun.boot.library.path = C:\Program Files\Java\jdk-11.0.11\bin
+	sun.cpu.endian = little
+	sun.cpu.isalist = amd64
+	sun.desktop = windows
+	sun.io.unicode.encoding = UnicodeLittle
+	sun.java.command = D:\SourceCode\CodeJHipster\keycloak-12.0.0\jboss-modules.jar -mp D:\SourceCode\CodeJHipster\keycloak-12.0.0\modules org.jboss.as.standalone -Djboss.home.dir=D:\SourceCode\CodeJHipster\keycloak-12.0.0
+	sun.java.launcher = SUN_STANDARD
+	sun.jnu.encoding = Cp1252
+	sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+	sun.os.patch.level = 
+	sun.stderr.encoding = cp437
+	sun.stdout.encoding = cp437
+	user.country = US
+	user.dir = D:\SourceCode\CodeJHipster\keycloak-12.0.0\bin
+	user.home = C:\Users\doxua
+	user.language = en
+	user.name = doxua
+	user.script = 
+	user.timezone = Asia/Bangkok
+	user.variant = 
+2021-10-09 15:51:24,385 DEBUG [org.jboss.as.config] (MSC service thread 1-2) VM Arguments: -Dprogram.name=standalone.bat -Xms64M -Xmx512M -XX:MetaspaceSize=96M -XX:MaxMetaspaceSize=256m -Djava.net.preferIPv4Stack=true -Djboss.modules.system.pkgs=org.jboss.byteman --add-exports=java.base/sun.nio.ch=ALL-UNNAMED --add-exports=jdk.unsupported/sun.misc=ALL-UNNAMED --add-exports=jdk.unsupported/sun.reflect=ALL-UNNAMED -Dorg.jboss.boot.log.file=D:\SourceCode\CodeJHipster\keycloak-12.0.0\standalone\log\server.log -Dlogging.configuration=file:D:\SourceCode\CodeJHipster\keycloak-12.0.0\standalone\configuration/logging.properties 
+2021-10-09 15:51:26,187 INFO  [org.wildfly.security] (ServerService Thread Pool -- 20) ELY00001: WildFly Elytron version 1.13.1.Final
+2021-10-09 15:51:29,497 INFO  [org.jboss.as.controller.management-deprecated] (Controller Boot Thread) WFLYCTL0028: Attribute 'security-realm' in the resource at address '/core-service=management/management-interface=http-interface' is deprecated, and may be removed in a future version. See the attribute description in the output of the read-resource-description operation to learn more about the deprecation.
+2021-10-09 15:51:29,534 INFO  [org.jboss.as.controller.management-deprecated] (ServerService Thread Pool -- 19) WFLYCTL0028: Attribute 'security-realm' in the resource at address '/subsystem=undertow/server=default-server/https-listener=https' is deprecated, and may be removed in a future version. See the attribute description in the output of the read-resource-description operation to learn more about the deprecation.
+2021-10-09 15:51:29,745 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0039: Creating http management service using socket-binding (management-http)
+2021-10-09 15:51:29,811 INFO  [org.xnio] (MSC service thread 1-6) XNIO version 3.8.2.Final
+2021-10-09 15:51:29,820 INFO  [org.xnio.nio] (MSC service thread 1-6) XNIO NIO Implementation Version 3.8.2.Final
+2021-10-09 15:51:29,902 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 37) WFLYCLINF0001: Activating Infinispan subsystem.
+2021-10-09 15:51:29,921 INFO  [org.jboss.as.naming] (ServerService Thread Pool -- 43) WFLYNAM0001: Activating Naming Subsystem
+2021-10-09 15:51:29,951 INFO  [org.wildfly.extension.microprofile.config.smallrye._private] (ServerService Thread Pool -- 51) WFLYCONF0001: Activating WildFly MicroProfile Config Subsystem
+2021-10-09 15:51:29,960 INFO  [org.jboss.as.security] (ServerService Thread Pool -- 48) WFLYSEC0002: Activating Security Subsystem
+2021-10-09 15:51:29,949 WARN  [org.jboss.as.txn] (ServerService Thread Pool -- 49) WFLYTX0013: The node-identifier attribute on the /subsystem=transactions is set to the default value. This is a danger for environments running multiple servers. Please make sure the attribute value is unique.
+2021-10-09 15:51:29,983 INFO  [org.jboss.as.connector] (MSC service thread 1-4) WFLYJCA0009: Starting JCA Subsystem (WildFly/IronJacamar 1.4.23.Final)
+2021-10-09 15:51:29,989 INFO  [org.wildfly.extension.microprofile.metrics.smallrye] (ServerService Thread Pool -- 53) WFLYMETRICS0001: Activating Eclipse MicroProfile Metrics Subsystem
+2021-10-09 15:51:29,998 INFO  [org.wildfly.extension.microprofile.health.smallrye] (ServerService Thread Pool -- 52) WFLYHEALTH0001: Activating Eclipse MicroProfile Health Subsystem
+2021-10-09 15:51:30,024 INFO  [org.jboss.as.mail.extension] (MSC service thread 1-7) WFLYMAIL0001: Bound mail session [java:jboss/mail/Default]
+2021-10-09 15:51:30,040 INFO  [org.jboss.as.naming] (MSC service thread 1-2) WFLYNAM0003: Starting Naming Service
+2021-10-09 15:51:30,091 INFO  [org.jboss.as.security] (MSC service thread 1-4) WFLYSEC0001: Current PicketBox version=5.0.3.Final-redhat-00006
+2021-10-09 15:51:30,122 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-7) WFLYUT0003: Undertow 2.2.2.Final starting
+2021-10-09 15:51:30,134 WARN  [org.wildfly.clustering.web.undertow] (ServerService Thread Pool -- 54) WFLYCLWEBUT0007: No routing provider found for default-server; using legacy provider based on static configuration
+2021-10-09 15:51:30,132 ERROR [stderr] (ServerService Thread Pool -- 32) Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+2021-10-09 15:51:30,170 INFO  [org.jboss.as.connector.subsystems.datasources] (ServerService Thread Pool -- 32) WFLYJCA0005: Deploying non-JDBC-compliant driver class com.mysql.jdbc.Driver (version 8.0)
+2021-10-09 15:51:30,276 INFO  [org.jboss.as.jaxrs] (ServerService Thread Pool -- 38) WFLYRS0016: RESTEasy version 3.13.2.Final
+2021-10-09 15:51:30,292 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-1) WFLYJCA0018: Started Driver service with driver-name = mysql
+2021-10-09 15:51:30,382 INFO  [org.jboss.as.connector.subsystems.datasources] (ServerService Thread Pool -- 32) WFLYJCA0004: Deploying JDBC-compliant driver class org.h2.Driver (version 1.4)
+2021-10-09 15:51:30,422 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-1) WFLYJCA0018: Started Driver service with driver-name = h2
+2021-10-09 15:51:30,429 INFO  [org.wildfly.extension.io] (ServerService Thread Pool -- 36) WFLYIO001: Worker 'default' has auto-configured to 12 IO threads with 96 max task threads based on your 6 available processors
+2021-10-09 15:51:30,446 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 54) WFLYUT0014: Creating file handler for path 'D:\SourceCode\CodeJHipster\keycloak-12.0.0/welcome-content' with options [directory-listing: 'false', follow-symlink: 'false', case-sensitive: 'true', safe-symlink-paths: '[]']
+2021-10-09 15:51:30,515 INFO  [org.jboss.as.ejb3] (MSC service thread 1-8) WFLYEJB0481: Strict pool slsb-strict-max-pool is using a max instance size of 96 (per class), which is derived from thread worker pool sizing.
+2021-10-09 15:51:30,516 INFO  [org.jboss.as.ejb3] (MSC service thread 1-1) WFLYEJB0482: Strict pool mdb-strict-max-pool is using a max instance size of 24 (per class), which is derived from the number of CPUs on this host.
+2021-10-09 15:51:30,586 INFO  [org.jboss.remoting] (MSC service thread 1-5) JBoss Remoting version 5.0.19.Final
+2021-10-09 15:51:30,700 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-2) WFLYUT0012: Started server default-server.
+2021-10-09 15:51:30,736 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-2) WFLYUT0018: Host default-host starting
+2021-10-09 15:51:30,860 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-3) WFLYUT0006: Undertow HTTP listener default listening on 127.0.0.1:8080
+2021-10-09 15:51:30,913 INFO  [org.jboss.as.ejb3] (MSC service thread 1-5) WFLYEJB0493: EJB subsystem suspension complete
+2021-10-09 15:51:31,000 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-7) WFLYJCA0001: Bound data source [java:jboss/datasources/KeycloakDS]
+2021-10-09 15:51:31,000 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-6) WFLYJCA0001: Bound data source [java:jboss/datasources/ExampleDS]
+2021-10-09 15:51:32,032 INFO  [org.jboss.as.patching] (MSC service thread 1-6) WFLYPAT0050: Keycloak cumulative patch ID is: base, one-off patches include: none
+2021-10-09 15:51:32,049 WARN  [org.jboss.as.domain.management.security] (MSC service thread 1-8) WFLYDM0111: Keystore D:\SourceCode\CodeJHipster\keycloak-12.0.0\standalone\configuration\application.keystore not found, it will be auto generated on first use with a self signed certificate for host localhost
+2021-10-09 15:51:32,085 INFO  [org.jboss.as.server.deployment.scanner] (MSC service thread 1-3) WFLYDS0013: Started FileSystemDeploymentService for directory D:\SourceCode\CodeJHipster\keycloak-12.0.0\standalone\deployments
+2021-10-09 15:51:32,224 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-1) WFLYSRV0027: Starting deployment of "keycloak-server.war" (runtime-name: "keycloak-server.war")
+2021-10-09 15:51:32,315 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-4) WFLYUT0006: Undertow HTTPS listener https listening on 127.0.0.1:8443
+2021-10-09 15:51:34,034 INFO  [org.infinispan.CONTAINER] (ServerService Thread Pool -- 56) ISPN000128: Infinispan version: Infinispan 'Corona Extra' 11.0.4.Final
+2021-10-09 15:51:34,101 INFO  [org.infinispan.CONFIG] (MSC service thread 1-2) ISPN000152: Passivation configured without an eviction policy being selected. Only manually evicted entities will be passivated.
+2021-10-09 15:51:34,103 INFO  [org.infinispan.CONFIG] (MSC service thread 1-2) ISPN000152: Passivation configured without an eviction policy being selected. Only manually evicted entities will be passivated.
+2021-10-09 15:51:34,180 INFO  [org.infinispan.PERSISTENCE] (ServerService Thread Pool -- 57) ISPN000556: Starting user marshaller 'org.wildfly.clustering.infinispan.marshalling.jboss.JBossMarshaller'
+2021-10-09 15:51:34,185 INFO  [org.infinispan.PERSISTENCE] (ServerService Thread Pool -- 56) ISPN000556: Starting user marshaller 'org.wildfly.clustering.infinispan.spi.marshalling.InfinispanProtoStreamMarshaller'
+2021-10-09 15:51:34,481 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 56) WFLYCLINF0002: Started http-remoting-connector cache from ejb container
+2021-10-09 15:51:34,506 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 64) WFLYCLINF0002: Started clientSessions cache from keycloak container
+2021-10-09 15:51:34,507 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 68) WFLYCLINF0002: Started offlineClientSessions cache from keycloak container
+2021-10-09 15:51:34,508 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 59) WFLYCLINF0002: Started offlineSessions cache from keycloak container
+2021-10-09 15:51:34,508 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 67) WFLYCLINF0002: Started sessions cache from keycloak container
+2021-10-09 15:51:34,510 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 63) WFLYCLINF0002: Started authenticationSessions cache from keycloak container
+2021-10-09 15:51:34,510 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 65) WFLYCLINF0002: Started loginFailures cache from keycloak container
+2021-10-09 15:51:34,513 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 57) WFLYCLINF0002: Started actionTokens cache from keycloak container
+2021-10-09 15:51:34,515 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 60) WFLYCLINF0002: Started work cache from keycloak container
+2021-10-09 15:51:34,569 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 62) WFLYCLINF0002: Started realms cache from keycloak container
+2021-10-09 15:51:34,570 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 58) WFLYCLINF0002: Started keys cache from keycloak container
+2021-10-09 15:51:34,570 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 66) WFLYCLINF0002: Started authorization cache from keycloak container
+2021-10-09 15:51:34,570 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 61) WFLYCLINF0002: Started users cache from keycloak container
+2021-10-09 15:51:35,099 WARN  [org.jboss.as.server.deployment] (MSC service thread 1-7) WFLYSRV0273: Excluded subsystem webservices via jboss-deployment-structure.xml does not exist.
+2021-10-09 15:51:35,977 INFO  [org.keycloak.services] (ServerService Thread Pool -- 62) KC-SERVICES0001: Loading config from standalone.xml or domain.xml
+2021-10-09 15:51:36,804 INFO  [org.keycloak.url.DefaultHostnameProviderFactory] (ServerService Thread Pool -- 62) Frontend: <request>, Admin: <frontend>, Backend: <request>
+2021-10-09 15:51:36,997 WARN  [org.infinispan.encoding.impl.StorageConfigurationManager] (ServerService Thread Pool -- 62) ISPN000599: Configuration for cache 'realmRevisions' does not define the encoding for keys or values. If you use operations that require data conversion or queries, you should configure the cache with a specific MediaType for keys or values.
+2021-10-09 15:51:37,004 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 62) WFLYCLINF0002: Started realmRevisions cache from keycloak container
+2021-10-09 15:51:37,007 WARN  [org.infinispan.encoding.impl.StorageConfigurationManager] (ServerService Thread Pool -- 62) ISPN000599: Configuration for cache 'userRevisions' does not define the encoding for keys or values. If you use operations that require data conversion or queries, you should configure the cache with a specific MediaType for keys or values.
+2021-10-09 15:51:37,014 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 62) WFLYCLINF0002: Started userRevisions cache from keycloak container
+2021-10-09 15:51:37,018 WARN  [org.infinispan.encoding.impl.StorageConfigurationManager] (ServerService Thread Pool -- 62) ISPN000599: Configuration for cache 'authorizationRevisions' does not define the encoding for keys or values. If you use operations that require data conversion or queries, you should configure the cache with a specific MediaType for keys or values.
+2021-10-09 15:51:37,026 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 62) WFLYCLINF0002: Started authorizationRevisions cache from keycloak container
+2021-10-09 15:51:37,032 INFO  [org.keycloak.connections.infinispan.DefaultInfinispanConnectionProviderFactory] (ServerService Thread Pool -- 62) Node name: desktop-qpu8tp9, Site name: null
+2021-10-09 15:51:46,770 INFO  [org.keycloak.connections.jpa.DefaultJpaConnectionProviderFactory] (ServerService Thread Pool -- 62) Database info: {databaseUrl=jdbc:h2:D:\SourceCode\CodeJHipster\keycloak-12.0.0\standalone\data/keycloak, databaseUser=SA, databaseProduct=H2 1.4.197 (2018-03-18), databaseDriver=H2 JDBC Driver 1.4.197 (2018-03-18)}
+2021-10-09 15:51:48,913 INFO  [org.hibernate.jpa.internal.util.LogHelper] (ServerService Thread Pool -- 62) HHH000204: Processing PersistenceUnitInfo [
+	name: keycloak-default
+	...]
+2021-10-09 15:51:49,007 INFO  [org.hibernate.Version] (ServerService Thread Pool -- 62) HHH000412: Hibernate Core {5.3.20.Final}
+2021-10-09 15:51:49,009 INFO  [org.hibernate.cfg.Environment] (ServerService Thread Pool -- 62) HHH000206: hibernate.properties not found
+2021-10-09 15:51:49,252 INFO  [org.hibernate.annotations.common.Version] (ServerService Thread Pool -- 62) HCANN000001: Hibernate Commons Annotations {5.0.5.Final}
+2021-10-09 15:51:49,941 INFO  [org.hibernate.dialect.Dialect] (ServerService Thread Pool -- 62) HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-10-09 15:51:49,957 WARN  [org.hibernate.dialect.H2Dialect] (ServerService Thread Pool -- 62) HHH000431: Unable to determine H2 database version, certain features may not work
+2021-10-09 15:51:50,042 INFO  [org.hibernate.envers.boot.internal.EnversServiceImpl] (ServerService Thread Pool -- 62) Envers integration enabled? : true
+2021-10-09 15:51:50,823 INFO  [org.hibernate.orm.beans] (ServerService Thread Pool -- 62) HHH10005002: No explicit CDI BeanManager reference was passed to Hibernate, but CDI is available on the Hibernate ClassLoader.
+2021-10-09 15:51:50,990 INFO  [org.hibernate.validator.internal.util.Version] (ServerService Thread Pool -- 62) HV000001: Hibernate Validator 6.0.21.Final
+2021-10-09 15:51:53,313 INFO  [org.hibernate.hql.internal.QueryTranslatorFactoryInitiator] (ServerService Thread Pool -- 62) HHH000397: Using ASTQueryTranslatorFactory
+2021-10-09 15:51:54,349 INFO  [org.jboss.resteasy.resteasy_jaxrs.i18n] (ServerService Thread Pool -- 62) RESTEASY002225: Deploying javax.ws.rs.core.Application: class org.keycloak.services.resources.KeycloakApplication
+2021-10-09 15:51:54,356 INFO  [org.jboss.resteasy.resteasy_jaxrs.i18n] (ServerService Thread Pool -- 62) RESTEASY002200: Adding class resource org.keycloak.services.resources.ThemeResource from Application class org.keycloak.services.resources.KeycloakApplication
+2021-10-09 15:51:54,361 INFO  [org.jboss.resteasy.resteasy_jaxrs.i18n] (ServerService Thread Pool -- 62) RESTEASY002205: Adding provider class org.keycloak.services.error.KeycloakErrorHandler from Application class org.keycloak.services.resources.KeycloakApplication
+2021-10-09 15:51:54,369 INFO  [org.jboss.resteasy.resteasy_jaxrs.i18n] (ServerService Thread Pool -- 62) RESTEASY002205: Adding provider class org.keycloak.services.filters.KeycloakSecurityHeadersFilter from Application class org.keycloak.services.resources.KeycloakApplication
+2021-10-09 15:51:54,370 INFO  [org.jboss.resteasy.resteasy_jaxrs.i18n] (ServerService Thread Pool -- 62) RESTEASY002200: Adding class resource org.keycloak.services.resources.JsResource from Application class org.keycloak.services.resources.KeycloakApplication
+2021-10-09 15:51:54,372 INFO  [org.jboss.resteasy.resteasy_jaxrs.i18n] (ServerService Thread Pool -- 62) RESTEASY002220: Adding singleton resource org.keycloak.services.resources.admin.AdminRoot from Application class org.keycloak.services.resources.KeycloakApplication
+2021-10-09 15:51:54,376 INFO  [org.jboss.resteasy.resteasy_jaxrs.i18n] (ServerService Thread Pool -- 62) RESTEASY002220: Adding singleton resource org.keycloak.services.resources.RealmsResource from Application class org.keycloak.services.resources.KeycloakApplication
+2021-10-09 15:51:54,380 INFO  [org.jboss.resteasy.resteasy_jaxrs.i18n] (ServerService Thread Pool -- 62) RESTEASY002210: Adding provider singleton org.keycloak.services.util.ObjectMapperResolver from Application class org.keycloak.services.resources.KeycloakApplication
+2021-10-09 15:51:54,382 INFO  [org.jboss.resteasy.resteasy_jaxrs.i18n] (ServerService Thread Pool -- 62) RESTEASY002220: Adding singleton resource org.keycloak.services.resources.RobotsResource from Application class org.keycloak.services.resources.KeycloakApplication
+2021-10-09 15:51:54,386 INFO  [org.jboss.resteasy.resteasy_jaxrs.i18n] (ServerService Thread Pool -- 62) RESTEASY002220: Adding singleton resource org.keycloak.services.resources.WelcomeResource from Application class org.keycloak.services.resources.KeycloakApplication
+2021-10-09 15:51:54,768 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 62) WFLYUT0021: Registered web context: '/auth' for server 'default-server'
+2021-10-09 15:51:55,686 INFO  [org.jboss.as.server] (ServerService Thread Pool -- 55) WFLYSRV0010: Deployed "keycloak-server.war" (runtime-name : "keycloak-server.war")
+2021-10-09 15:51:55,770 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0212: Resuming server
+2021-10-09 15:51:55,776 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0025: Keycloak 12.0.0 (WildFly Core 13.0.3.Final) started in 40730ms - Started 590 of 868 services (585 services are lazy, passive or on-demand)
+2021-10-09 15:51:55,792 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0060: Http management interface listening on http://127.0.0.1:9990/management
+2021-10-09 15:51:55,798 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0051: Admin console listening on http://127.0.0.1:9990
+2021-10-09 16:38:02,206 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, username=haitt, authSessionParentId=6e1ec6cf-36cc-4896-aa76-bb55c74f70dd, authSessionTabId=zflAbipTNis
+2021-10-09 16:38:54,737 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, username=haitt, authSessionParentId=d308a6d8-e43a-4803-b5d9-92fd06c2e19f, authSessionTabId=3g7HNXzcc-Y
+2021-10-09 16:41:10,896 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, username=haitt, authSessionParentId=8ae88ee4-7cee-4ef0-97da-8034c636d2b5, authSessionTabId=RQDT0Jhe7f4
+2021-10-09 16:47:04,830 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=null, ipAddress=127.0.0.1, error=user_not_found, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, authSessionParentId=5b9760b3-7b70-4ff7-915c-02a0a8280ba9, authSessionTabId=GYQrHNVLFxk
+2021-10-09 16:51:36,962 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=null, ipAddress=127.0.0.1, error=user_not_found, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, authSessionParentId=5120830a-272d-4e04-a78b-211e0b7a9e3c, authSessionTabId=TyIz188gjcw
+2021-10-09 16:51:39,810 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=null, ipAddress=127.0.0.1, error=user_not_found, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, authSessionParentId=bca36b15-442e-4edf-958e-1cd1023bf994, authSessionTabId=Bu1X01otoHk
+2021-10-09 16:51:49,091 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, username=haitt, authSessionParentId=d0d720f6-aac8-46e0-b9d9-fa5ca02c877c, authSessionTabId=5dFF-aUVDbc
+2021-10-09 16:52:25,940 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, username=haitt, authSessionParentId=243b999f-b5ea-4eb3-b4b7-c816183fe803, authSessionTabId=W88_3C4CESY
+2021-10-09 16:54:25,511 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, username=haitt, authSessionParentId=204af00a-e787-478f-9f59-ad452b213710, authSessionTabId=im28AqC8Ay0
+2021-10-09 16:57:13,575 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, username=haitt, authSessionParentId=4d12b926-da65-4383-ab14-1dbaf01553bc, authSessionTabId=JPr6zji6Yds
+2021-10-09 16:57:40,557 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, username=haitt, authSessionParentId=a730e39c-1595-4d8a-b153-cb82883da1dc, authSessionTabId=2hV7EkfavVo
+2021-10-09 17:01:52,711 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, username=haitt, authSessionParentId=0bb02275-de98-4561-9a7d-55814f74b3d6, authSessionTabId=if5zih8mv1w
+2021-10-09 17:11:27,115 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, username=haitt, authSessionParentId=8222e94e-db32-4d7f-a031-366a6e197db7, authSessionTabId=I-kVhzy5Svs
+2021-10-09 17:12:26,420 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, username=haitt, authSessionParentId=1675e60d-a2d1-4cf7-9df4-40066de3f2ce, authSessionTabId=qSwMfjaqIRA
+2021-10-09 17:14:22,014 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, username=haitt, authSessionParentId=cea2993e-4884-4296-9df2-c3fddc81a05b, authSessionTabId=yvszaQ2AMGk
+2021-10-09 17:16:18,033 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, username=haitt, authSessionParentId=c7fd34cd-2598-425e-af67-3be72edf45d3, authSessionTabId=UP-Gm7PT4YQ
+2021-10-09 17:17:39,576 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, username=haitt, authSessionParentId=e0475fb9-d3a4-4969-b317-33b35bf100c4, authSessionTabId=E-zwZrCh0TM
+2021-10-09 17:38:25,987 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, username=haitt, authSessionParentId=0f4df620-78ae-4741-91b8-946519b509f2, authSessionTabId=5mvxZcwXj7Y
+2021-10-09 17:41:13,331 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, username=haitt, authSessionParentId=d791a2dc-1cc5-4681-9b78-4acd9a134b63, authSessionTabId=oQWfV3G1y5U
+2021-10-09 17:41:28,243 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, username=haitt, authSessionParentId=848ebc79-0f8f-4e70-b1d1-61c89a2a0c1b, authSessionTabId=a4dYaKzmOPE
+2021-10-09 17:46:48,927 WARN  [org.keycloak.events] (default task-9) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodfrontend, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, auth_type=code, redirect_uri=http://localhost:3000/change-password, code_id=08407de9-cec3-40cb-8a79-d73a25607bb5, username=haitt, authSessionParentId=08407de9-cec3-40cb-8a79-d73a25607bb5, authSessionTabId=J_I7PpAFlGY
+2021-10-09 17:47:10,632 WARN  [org.keycloak.events] (default task-13) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, username=haitt, authSessionParentId=54517bdd-2a9e-4c11-a0e3-55ed7eef4a6a, authSessionTabId=3Yc1cZEY1tI
+2021-10-09 17:48:21,270 WARN  [org.keycloak.events] (default task-13) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, username=haitt, authSessionParentId=22acb11f-46c3-4e83-bca2-5785bcab5048, authSessionTabId=W8ffI1HZopE
+2021-10-09 17:48:33,862 WARN  [org.keycloak.events] (default task-13) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, username=haitt, authSessionParentId=6c34a5a8-3cb9-408f-94d1-01b16e22f771, authSessionTabId=0aSBrS0IWS0
+2021-10-09 17:49:26,882 WARN  [org.keycloak.events] (default task-14) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, username=haitt, authSessionParentId=f03d4bd0-1d17-4c27-b1d6-bb9176cd7273, authSessionTabId=kE1X3LJgSfQ
+2021-10-09 22:24:04,893 WARN  [org.keycloak.events] (default task-14) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodservice, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, grant_type=password, client_auth_method=client-secret, username=haitt, authSessionParentId=b15764b5-afc1-4a35-a955-32daa3bcfe9d, authSessionTabId=68WH3dqKP-8
+2021-10-09 22:24:36,000 WARN  [org.keycloak.events] (default task-14) type=LOGIN_ERROR, realmId=orderfood, clientId=orderfoodfrontend, userId=eb531c10-c8a3-4fde-b044-83c8cb99d6a8, ipAddress=127.0.0.1, error=invalid_user_credentials, auth_method=openid-connect, auth_type=code, redirect_uri=http://localhost:3000/, code_id=83e957c9-6931-4467-84a4-2c7c2a4bd7ff, username=haitt, authSessionParentId=83e957c9-6931-4467-84a4-2c7c2a4bd7ff, authSessionTabId=UAuuWEylUGA
